@@ -4,22 +4,22 @@
 This repository contains my 15-day Cybersecurity Internship Phase 1 projects.
 
 ## Projects
-
 1. OSINT & Passive Reconnaissance
 2. Email Harvesting
 3. Phishing URL Detection
 4. Vishing & Smishing Simulation
 5. Target Profile
-6. Spear Phishing Awareness
-7. Password Attack & Rate-Limit Simulation
+6. Spear Phishing Email Craft (Lab Only)
+7. Password Attacks & Credential Stuffing
 8. USB Drop Attack Simulation
-9. Fake Profile Detection
-10. Honeypot Link Tracking
-11. Social Engineering Awareness Quiz
+9. Social Media Impersonation & Fake Profile Detection
+10. Baiting & Watering Hole Attack Simulation
+11. Social Engineering Awareness Training
 12. Phishing Email Detection with ML
-13. SIEM Log Analysis
-14. Incident Response Simulation
+13. SIEM Log Analysis for Social Engineering Attack Detection
+14. Social Engineering Incident Response Plan
 15. Social Engineering Attack Chain Simulator
+
 
 ## Technologies Used
 
