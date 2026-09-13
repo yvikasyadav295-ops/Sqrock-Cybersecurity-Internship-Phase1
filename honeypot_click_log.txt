@@ -1,0 +1,15 @@
+===== Honeypot Click Log =====
+Awareness / Training Use Only
+
+User   : lab_user_1
+Time   : 2026-09-13 14:16:52
+Status : SIMULATED CLICK
+-----------------------------------
+User   : lab_user_2
+Time   : 2026-09-13 14:16:52
+Status : SIMULATED CLICK
+-----------------------------------
+User   : lab_user_3
+Time   : 2026-09-13 14:16:52
+Status : SIMULATED CLICK
+-----------------------------------

@@ -1,0 +1,19 @@
+{
+    "username": "lab_user",
+    "platform": "GitHub",
+    "public_repositories": [
+        "security-learning",
+        "python-projects",
+        "cybersecurity-lab"
+    ],
+    "skills": [
+        "Python",
+        "Cybersecurity",
+        "Networking"
+    ],
+    "public_interests": [
+        "Cybersecurity",
+        "Programming",
+        "Technology"
+    ]
+}

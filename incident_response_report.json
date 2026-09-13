@@ -1,0 +1,20 @@
+{
+    "incident": "Social Engineering / Brute-Force Alert",
+    "status": "CONTAINMENT SIMULATED",
+    "timestamp": "2026-09-13 14:22:43",
+    "alert": {
+        "alert_type": "Multiple Failed Login Attempts",
+        "source_ip": "10.0.0.50",
+        "failed_attempts": 5,
+        "severity": "HIGH",
+        "time": "2026-09-13 14:22:43"
+    },
+    "actions_taken": [
+        "Alert received and analyzed",
+        "Suspicious IP identified",
+        "Source IP temporarily blocked (simulation)",
+        "Affected account flagged for review",
+        "Security team notified (simulation)"
+    ],
+    "recommendation": "Review account activity and investigate the source IP."
+}

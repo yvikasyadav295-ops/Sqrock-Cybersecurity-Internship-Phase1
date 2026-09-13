@@ -1,0 +1,11 @@
+===== USB Drop Simulation Log =====
+Awareness / Training Use Only
+
+Time: 2026-09-13 14:15:01
+Username: vikas
+Computer Name: LAPTOP-T2NUECVC
+Operating System: Windows
+OS Version: 10.0.26200
+Machine: AMD64
+Python Version: 3.14.6
+Current Folder: C:\Sqrock-Phase1

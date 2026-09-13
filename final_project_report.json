@@ -1,0 +1,38 @@
+{
+    "project": "Social Engineering Attack Chain Simulator",
+    "timestamp": "2026-09-13 14:55:08",
+    "osint": {
+        "domain": "example.com",
+        "ip_address": "Unavailable",
+        "dns_lookup": "Failed"
+    },
+    "phishing_url": {
+        "url": "http://example.com/login?verify=password",
+        "risk_score": 4,
+        "risk_level": "HIGH RISK",
+        "indicators": [
+            "URL does not use HTTPS",
+            "Suspicious word found: login",
+            "Suspicious word found: verify",
+            "Suspicious word found: password"
+        ]
+    },
+    "awareness_email": {
+        "recipient": "Lab User",
+        "topic": "Account Security",
+        "purpose": "Security awareness training"
+    },
+    "incident_response": {
+        "alert": "Multiple Failed Login Attempts",
+        "source_ip": "10.0.0.50",
+        "failed_attempts": 5,
+        "severity": "HIGH",
+        "actions": [
+            "Alert received and analyzed",
+            "Suspicious IP identified",
+            "Source IP temporarily blocked (simulation)",
+            "Affected account flagged for review",
+            "Security team notified (simulation)"
+        ]
+    }
+}
